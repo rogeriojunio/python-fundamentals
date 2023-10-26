@@ -3,3 +3,5 @@ In this repository, I saved some basic projects that I exercise basics of Python
 
 Here you can find:
 1. [mathematical-finance](https://github.com/rogeriojunio/python-fundamentals/blob/main/mathematical-finance/mathematical-finance.ipynb)
+2. [financial-report](https://github.com/rogeriojunio/python-fundamentals/tree/main/financial-report)
+3. 
