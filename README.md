@@ -15,3 +15,4 @@ Here you can find:
 11. [loops](https://github.com/rogeriojunio/python-fundamentals/blob/main/loops/loops.ipynb)
 12. [matplotlib](https://github.com/rogeriojunio/python-fundamentals/blob/main/matplotlib/matplotlib.ipynb)
 13. [os-libs](https://github.com/rogeriojunio/python-fundamentals/tree/main/os-libs)
+14. [ftp-lib](https://github.com/rogeriojunio/python-fundamentals/blob/main/ftp-lib/ftp-lib.ipynb)
